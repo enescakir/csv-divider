@@ -1,4 +1,4 @@
-import os, csv, argparse, copy
+import os, csv, argparse
 
 parser = argparse.ArgumentParser(description='CSV divider app')
 group = parser.add_mutually_exclusive_group()
